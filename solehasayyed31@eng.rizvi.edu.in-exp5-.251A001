@@ -1,0 +1,20 @@
+table_2=[2,4,6,8,10,12]
+print (table_2[5])
+print (table_2)
+table_2[3]="soleha"
+print (table_2)
+table 2.remove(2)
+print (table_2)
+print (len (table_2))
+table 2.append (1)
+print (table_2)
+table 2.extend((10,11,15])
+print (table_2)
+table 2.insert(3,5)
+print (table_2)
+table_2.clear()
+print (table_2)
+table_1=[3,5, 17,18,9,10]
+print (table_l)
+table_1.sort()
+print (table_l)
