@@ -1,0 +1,17 @@
+value= input('enter value of radius')
+pi=3.14
+area=pi*float(value)**2
+print(f"area of circle is {area} ")
+
+
+length= int(input('enter value OF length '))
+breadth= int(input('enter value of breadth'))
+area=length*breadth
+print(f"area of rectangle {area}")
+
+
+base=int(input('enter the value of base'))
+height=int(input('enter the value of height'))
+area=1/2*base*height
+print(f"area of triangle {area}")
+
