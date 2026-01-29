@@ -5,4 +5,4 @@ DA = 0.7BS
 TA = 0.3BS
 HRA=0.1*BS
 GS=BS+DA+TA+HRA
-print (f'gross value is (GS) rs')
+print (f'gross value is {GS} rs')
